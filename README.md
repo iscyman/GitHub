@@ -90,23 +90,26 @@ The diagram could be visualized as a flowchart where arrows indicate the directi
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://https://github.com/iscyman/GitHub/tree/main/tokenswap1
-    cd <repository-directory>
+    git clone https://github.com/iscyman/GitHub.git
     ```
+2. **Navigate to the project directory:**
+   ```
+   cd tokenswap1
+   ```
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
     ```bash
     npm install
     ```
 
-3. **Configure Environment Variables:**
+4. **Configure Environment Variables:**
     - Create a `.env` file in the root directory with the following content:
     ```env
     RPC_URL=<your_rpc_url>
     PRIVATE_KEY=<your_private_key>
     ```
 
-4. **Run the Script:**
+5. **Run the Script:**
     ```bash
     node tokenSwap.js
     ```
