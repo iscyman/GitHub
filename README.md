@@ -90,7 +90,7 @@ The diagram could be visualized as a flowchart where arrows indicate the directi
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/Easyisc/project-token-swap.git
+    git clone https://https://github.com/iscyman/GitHub/tree/main/tokenswap1
     cd <repository-directory>
     ```
 
